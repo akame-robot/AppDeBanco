@@ -67,11 +67,21 @@ namespace App_de_banco
             }
         }
 
-        public void AddDeposity()
+        public void AddDeposity(float quantity)
         {
-            addDepository = int.Parse(Console.ReadLine());
-            Depository += addDepository;
-            Console.WriteLine(Depository);
+            Depository += quantity;
+            Console.WriteLine();
+        }
+
+        public void WithDraw(float quantity)
+        {
+            Depository -= quantity + 5.0f;
+            Console.WriteLine();
+        }
+
+        public override string ToString()
+        {
+            return "Numero da conta: "+AccountNum+"\nNome do Titular: "+AccountName+"\nSaldo: $"+Depository;
         }
     }
 }
