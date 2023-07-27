@@ -1,0 +1,15 @@
+C:\Users\horlab306\Documents\GitHub\AppDeBanco\TarefaAulaHeranca\bin\Debug\net6.0\TarefaAulaHeranca.exe
+C:\Users\horlab306\Documents\GitHub\AppDeBanco\TarefaAulaHeranca\bin\Debug\net6.0\TarefaAulaHeranca.deps.json
+C:\Users\horlab306\Documents\GitHub\AppDeBanco\TarefaAulaHeranca\bin\Debug\net6.0\TarefaAulaHeranca.runtimeconfig.json
+C:\Users\horlab306\Documents\GitHub\AppDeBanco\TarefaAulaHeranca\bin\Debug\net6.0\TarefaAulaHeranca.dll
+C:\Users\horlab306\Documents\GitHub\AppDeBanco\TarefaAulaHeranca\bin\Debug\net6.0\TarefaAulaHeranca.pdb
+C:\Users\horlab306\Documents\GitHub\AppDeBanco\TarefaAulaHeranca\obj\Debug\net6.0\TarefaAulaHeranca.csproj.AssemblyReference.cache
+C:\Users\horlab306\Documents\GitHub\AppDeBanco\TarefaAulaHeranca\obj\Debug\net6.0\TarefaAulaHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horlab306\Documents\GitHub\AppDeBanco\TarefaAulaHeranca\obj\Debug\net6.0\TarefaAulaHeranca.AssemblyInfoInputs.cache
+C:\Users\horlab306\Documents\GitHub\AppDeBanco\TarefaAulaHeranca\obj\Debug\net6.0\TarefaAulaHeranca.AssemblyInfo.cs
+C:\Users\horlab306\Documents\GitHub\AppDeBanco\TarefaAulaHeranca\obj\Debug\net6.0\TarefaAulaHeranca.csproj.CoreCompileInputs.cache
+C:\Users\horlab306\Documents\GitHub\AppDeBanco\TarefaAulaHeranca\obj\Debug\net6.0\TarefaAulaHeranca.dll
+C:\Users\horlab306\Documents\GitHub\AppDeBanco\TarefaAulaHeranca\obj\Debug\net6.0\refint\TarefaAulaHeranca.dll
+C:\Users\horlab306\Documents\GitHub\AppDeBanco\TarefaAulaHeranca\obj\Debug\net6.0\TarefaAulaHeranca.pdb
+C:\Users\horlab306\Documents\GitHub\AppDeBanco\TarefaAulaHeranca\obj\Debug\net6.0\TarefaAulaHeranca.genruntimeconfig.cache
+C:\Users\horlab306\Documents\GitHub\AppDeBanco\TarefaAulaHeranca\obj\Debug\net6.0\ref\TarefaAulaHeranca.dll
