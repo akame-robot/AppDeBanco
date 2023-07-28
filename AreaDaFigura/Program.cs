@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AreaDaFigura;
+using System;
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
@@ -6,7 +7,17 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<Shape> list = new List<Shape>();
+            Console.Write("radius?: ");
+            double radius = int.Parse(Console.ReadLine());
+            Console.Write("color?: ");
+            string colour = Console.ReadLine();
+            list.Add(new Circule(radius, colour));
+
+            foreach(Shape shape in list)
+            {
+                Console.WriteLine(shape.Area().ToString("F2"));
+            }
         }
     }
 }
