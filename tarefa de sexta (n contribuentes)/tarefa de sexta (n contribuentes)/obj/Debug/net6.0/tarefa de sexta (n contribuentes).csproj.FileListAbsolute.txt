@@ -1,0 +1,15 @@
+C:\Users\kaiyo\Documents\GitHub\AppDeBanco\tarefa de sexta (n contribuentes)\tarefa de sexta (n contribuentes)\bin\Debug\net6.0\tarefa de sexta (n contribuentes).exe
+C:\Users\kaiyo\Documents\GitHub\AppDeBanco\tarefa de sexta (n contribuentes)\tarefa de sexta (n contribuentes)\bin\Debug\net6.0\tarefa de sexta (n contribuentes).deps.json
+C:\Users\kaiyo\Documents\GitHub\AppDeBanco\tarefa de sexta (n contribuentes)\tarefa de sexta (n contribuentes)\bin\Debug\net6.0\tarefa de sexta (n contribuentes).runtimeconfig.json
+C:\Users\kaiyo\Documents\GitHub\AppDeBanco\tarefa de sexta (n contribuentes)\tarefa de sexta (n contribuentes)\bin\Debug\net6.0\tarefa de sexta (n contribuentes).dll
+C:\Users\kaiyo\Documents\GitHub\AppDeBanco\tarefa de sexta (n contribuentes)\tarefa de sexta (n contribuentes)\bin\Debug\net6.0\tarefa de sexta (n contribuentes).pdb
+C:\Users\kaiyo\Documents\GitHub\AppDeBanco\tarefa de sexta (n contribuentes)\tarefa de sexta (n contribuentes)\obj\Debug\net6.0\tarefa de sexta (n contribuentes).csproj.AssemblyReference.cache
+C:\Users\kaiyo\Documents\GitHub\AppDeBanco\tarefa de sexta (n contribuentes)\tarefa de sexta (n contribuentes)\obj\Debug\net6.0\tarefa de sexta (n contribuentes).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiyo\Documents\GitHub\AppDeBanco\tarefa de sexta (n contribuentes)\tarefa de sexta (n contribuentes)\obj\Debug\net6.0\tarefa de sexta (n contribuentes).AssemblyInfoInputs.cache
+C:\Users\kaiyo\Documents\GitHub\AppDeBanco\tarefa de sexta (n contribuentes)\tarefa de sexta (n contribuentes)\obj\Debug\net6.0\tarefa de sexta (n contribuentes).AssemblyInfo.cs
+C:\Users\kaiyo\Documents\GitHub\AppDeBanco\tarefa de sexta (n contribuentes)\tarefa de sexta (n contribuentes)\obj\Debug\net6.0\tarefa de sexta (n contribuentes).csproj.CoreCompileInputs.cache
+C:\Users\kaiyo\Documents\GitHub\AppDeBanco\tarefa de sexta (n contribuentes)\tarefa de sexta (n contribuentes)\obj\Debug\net6.0\tarefa de sexta (n contribuentes).dll
+C:\Users\kaiyo\Documents\GitHub\AppDeBanco\tarefa de sexta (n contribuentes)\tarefa de sexta (n contribuentes)\obj\Debug\net6.0\refint\tarefa de sexta (n contribuentes).dll
+C:\Users\kaiyo\Documents\GitHub\AppDeBanco\tarefa de sexta (n contribuentes)\tarefa de sexta (n contribuentes)\obj\Debug\net6.0\tarefa de sexta (n contribuentes).pdb
+C:\Users\kaiyo\Documents\GitHub\AppDeBanco\tarefa de sexta (n contribuentes)\tarefa de sexta (n contribuentes)\obj\Debug\net6.0\tarefa de sexta (n contribuentes).genruntimeconfig.cache
+C:\Users\kaiyo\Documents\GitHub\AppDeBanco\tarefa de sexta (n contribuentes)\tarefa de sexta (n contribuentes)\obj\Debug\net6.0\ref\tarefa de sexta (n contribuentes).dll
