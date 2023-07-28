@@ -8,5 +8,6 @@ namespace AreaDaFigura
 {
     internal class Rectangule
     {
+
     }
 }

@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace AreaDaFigura
 {
-    internal class Circule
+    internal class Circule : Shape
     {
+        public double Radius { get; set; }
+
+        public Circule(double radius, string color) : base(color)
+        {
+            Radius = radius;
+        }
+        public override double Area()
+        {
+            return Math.PI * Radius * Radius;
+        }
     }
 }
